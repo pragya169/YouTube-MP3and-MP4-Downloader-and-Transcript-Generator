@@ -62,9 +62,9 @@ This command will download the video as an MP3 file and generate a transcript.
 This project is licensed under the MIT License. Feel free to modify and distribute it.
 
 ## Contributors
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
+- **Pragya Dwivedi** - [GitHub Profile](https://github.com/pragya169)
 
 ## Contact
-For any issues or suggestions, feel free to open an issue on GitHub or reach out via email at **your-email@example.com**.
+For any issues or suggestions, feel free to open an issue on GitHub or reach out via email at **dwivedipragya16@gmail.com**.
 
 
